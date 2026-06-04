@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **mominashah1312@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** web development
-- 🌱 **I’m currently learning:** web development
+- 🔭 **I’m currently working on:** 
+- 🌱 **I’m currently learning:** 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** 
 - 📫 **How to reach me:** mominashah1312@gmail.com
 - 😄 **Pronouns:** momina shah
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** 
 
 <!-- Snake Game Repo View -->
 <div align="center">
